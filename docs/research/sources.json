@@ -1,0 +1,70 @@
+{
+  "retrieved_on": "2026-11-19",
+  "sources": [
+    {
+      "repository": "https://github.com/opensheetmusicdisplay/opensheetmusicdisplay",
+      "commit": "87583ffab923aa3b35fb47dd434909a34b8ae927",
+      "license": "BSD-3-Clause",
+      "files": [
+        {
+          "path": "README.md",
+          "sha256": "9aaa739fa8a94017444a3985d7cbfe1ee19d1b1db8dbba47170919ffa9bf8caa",
+          "read_lines": [
+            1,
+            65
+          ]
+        },
+        {
+          "path": "LICENSE",
+          "sha256": "261655f10cf6b90bd062fbe3c7fa4dd03e0324fdfc4b53a3c7d626e3aec694a8",
+          "read_lines": [
+            1,
+            11
+          ]
+        },
+        {
+          "path": "src/Common/DataObjects/Fraction.ts",
+          "sha256": "b3a35cd6b4b02fabe48fdd0abc7071f75c1664a1217637ece6babf61d66b1412",
+          "read_lines": [
+            1,
+            110
+          ]
+        }
+      ],
+      "use": "只读研究，未运行上游脚本或复制实现"
+    },
+    {
+      "repository": "https://github.com/trelby/trelby",
+      "commit": "ded2305b7e2938fbcfc9a245c6f00947d8edc509",
+      "license": "GPL-2.0",
+      "files": [
+        {
+          "path": "README.md",
+          "sha256": "80b22462c755049afb21bd324ed1ba22e413ad253ac3119481eb11bca958d712",
+          "read_lines": [
+            1,
+            45
+          ]
+        },
+        {
+          "path": "LICENSE",
+          "sha256": "df84246204e3c54cd24aebbc23714235f5fc41d754d53b65444a2afbf070130f",
+          "read_lines": [
+            1,
+            20
+          ]
+        },
+        {
+          "path": "trelby/screenplay.py",
+          "sha256": "b36855a6acba12c6e92a657987056af8b4469b2e786d28a32a8822034d50e314",
+          "read_lines": [
+            1,
+            65
+          ]
+        }
+      ],
+      "use": "只读研究，未运行上游脚本或复制实现"
+    }
+  ],
+  "adoption": "OpenSheetMusicDisplay区分乐谱、演奏时间和显示，Trelby提供剧本结构参考。本包采用明确960ticks及整数BPM，不嵌入完整制谱引擎、不复制GPL代码或宣称MusicXML完整兼容。"
+}

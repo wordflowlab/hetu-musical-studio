@@ -1,0 +1,26 @@
+export const config = {
+  fields: {
+    evidence: "evidence",
+    character: "characters",
+    scene: "scenes",
+    passage: "passages",
+    motif: "motifs",
+    reprise: "reprises",
+    program: "programs",
+    rehearsal: "rehearsals",
+    note: "notes",
+  },
+  defaults: {
+    brief: "",
+    evidence: [],
+    characters: [],
+    scenes: [],
+    passages: [],
+    motifs: [],
+    reprises: [],
+    programs: [],
+    rehearsals: [],
+    notes: [],
+  },
+  tabs: ["剧本阅读", "对白与唱段", "主题与编排", "排练与复核", "音乐剧交付"],
+} as const;

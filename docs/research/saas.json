@@ -1,0 +1,24 @@
+{
+  "retrieved_on": "2026-11-19",
+  "pages": [
+    {
+      "name": "WriterDuet",
+      "url": "https://www.writerduet.com/",
+      "status": "200",
+      "exit_code": 0,
+      "sha256": "b698e84e7352a8cf90dd26028b48ee08c7a0f461afd87cbf54b136170528edf5",
+      "title": "WriterDuet | Professional Screenwriting Software You'll Love",
+      "scope": "公开页面；未登录、未执行产品业务"
+    },
+    {
+      "name": "Final Draft",
+      "url": "https://www.finaldraft.com/",
+      "status": "200",
+      "exit_code": 0,
+      "sha256": "985040c49a2683d03452b2971e4e28d03f5814a462299372cfcaa0b0fbd05f14",
+      "title": "Screenwriting Software | Final Draft®",
+      "scope": "公开页面；未登录、未执行产品业务"
+    }
+  ],
+  "limits": "可访问页面不等于已体验产品；HTTP失败保留原状态。"
+}
