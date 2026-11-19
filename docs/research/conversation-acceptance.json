@@ -125,5 +125,16 @@
     "context_full_bytes_verified": true,
     "candidate_saved_and_read": true,
     "adopted": false
+  },
+  "public_package_install": {
+    "version": "0.1.0",
+    "package_sha256": "70f42fb31863b5be091c265d6415502573682e0c1cc52e13b510f7c58e2d6b85",
+    "original_and_revised_preserved": true,
+    "original_operation_preserved": true,
+    "skill_resources_byte_verified": 3,
+    "other_states_preserved": 42,
+    "original_unrelated_states_preserved": 39,
+    "initial_plugin_count": 40,
+    "current_plugin_count": 43
   }
 }
