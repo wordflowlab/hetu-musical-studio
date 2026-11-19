@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-19",
+  "core_version": "hetu 0.13.4",
+  "entry": "现有安装包独立CLI，未启动或覆盖GUI",
+  "plugin_id": "org.wordflowlab.musical-studio",
+  "package_sha256": "70f42fb31863b5be091c265d6415502573682e0c1cc52e13b510f7c58e2d6b85",
+  "fixed_ref": {
+    "object_id": "ext_b2547580-8aee-413e-9faf-6112f2cf3570",
+    "revision": 6,
+    "sha256": "8cb2238ad24d71c155edf4553c8d303a06e4e5e2d28248b9cd795283353c2e08"
+  },
+  "actual_capabilities_and_fixed_project_read": true,
+  "scope": "当前安装版兼容发现和固定成果读取；完整专业旅程仍由正式0.12.6证据证明"
+}
