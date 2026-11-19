@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-19",
+  "plugin_id": "org.wordflowlab.musical-studio",
+  "version": "0.1.0",
+  "package_sha256": "70f42fb31863b5be091c265d6415502573682e0c1cc52e13b510f7c58e2d6b85",
+  "archive_sha256": "f8bbbb068d24ccdb464a64b4b187b175b16391aa5bb546ea39b365f82ed179b7",
+  "unit_tests": 34,
+  "machine_action_count": 36,
+  "skill_resource_action_count": 1,
+  "official_full_verification": "https://github.com/wordflowlab/hetu-musical-studio/actions/runs/44520875282",
+  "official_source_commit": "72a9ee01651f6f726a2037a9a90900aefc777455",
+  "host": {
+    "version": "0.12.6",
+    "git_sha": "b75293837aaa220803b9dc964ba72b8646fa7244",
+    "archive_sha256": "de012d76bb9751d6f2ed78427c6887563fcfd4455ae19717c6f65a9182700ab3",
+    "source_build": false,
+    "signature_verified": true,
+    "gatekeeper": "/Applications/Hetu.app: accepted\nsource=Notarized Developer ID",
+    "staple": "Processing: /Applications/Hetu.app\nThe validate action worked!"
+  },
+  "professional_workflow": true,
+  "lifecycle": [
+    "install",
+    "disable",
+    "enable",
+    "uninstall",
+    "install"
+  ],
+  "fixed_source_continuation": true,
+  "independent_drama_video": true,
+  "ui_journeys": 1,
+  "actual_work_surfaces": 31,
+  "published_package_verified_separately": true,
+  "limits": [
+    "专业实测macOS arm64；Windows/Linux及原生窗口材质未验证",
+    "原创虚构工程与Agent模拟不证明真人测本、实际拍摄、语言学或音乐专业判断",
+    "没有外发、付费、正文采纳或定稿"
+  ]
+}

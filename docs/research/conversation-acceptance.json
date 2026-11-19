@@ -1,0 +1,129 @@
+{
+  "recorded_at": "2026-11-19",
+  "entry": "当前Codex通过正式0.12.6 CLI操作；既有0.12.3 MCP发现另行登记",
+  "host_version": "0.12.6",
+  "work_ref": {
+    "workspace_id": "workspace_01abb9b1-8e4a-46ac-a8ee-82d200f35875",
+    "kind": "novel",
+    "object_id": "novel_c070a2bc-10f4-4b55-a61b-981caa46f1ac"
+  },
+  "package_sha256": "70f42fb31863b5be091c265d6415502573682e0c1cc52e13b510f7c58e2d6b85",
+  "original": {
+    "object_id": "ext_b2547580-8aee-413e-9faf-6112f2cf3570",
+    "revision": 1,
+    "sha256": "9bc31c7b386d1171181f8b3e5fe433eae8936257f149bd74ca64ac4467ded441"
+  },
+  "revised": {
+    "object_id": "ext_b2547580-8aee-413e-9faf-6112f2cf3570",
+    "revision": 6,
+    "sha256": "8cb2238ad24d71c155edf4553c8d303a06e4e5e2d28248b9cd795283353c2e08"
+  },
+  "original_operation_key": "creative-specialist-musical-studio-project-20261119",
+  "source_ref": {
+    "kind": "resource",
+    "work_ref": {
+      "workspace_id": "workspace_01abb9b1-8e4a-46ac-a8ee-82d200f35875",
+      "kind": "novel",
+      "object_id": "novel_c070a2bc-10f4-4b55-a61b-981caa46f1ac"
+    },
+    "resource_id": "resource_80a855af-a4cc-40e7-9ac9-b9afc9dc3356",
+    "revision": 1,
+    "sha256": "65ea03fa141cf2314d3564200155691be5965e9ef55a00714150ae3a58b5f911"
+  },
+  "original_operation_preserved": true,
+  "previous_revision_preserved": true,
+  "old_snapshot_preserved": true,
+  "other_states_preserved": 42,
+  "existing_objects_read": 0,
+  "checks_after": {
+    "basis_ref": {
+      "object_id": "ext_b2547580-8aee-413e-9faf-6112f2cf3570",
+      "owner_plugin_id": "org.wordflowlab.musical-studio",
+      "revision": 6,
+      "sha256": "8cb2238ad24d71c155edf4553c8d303a06e4e5e2d28248b9cd795283353c2e08"
+    },
+    "note": "再现先后只检查明确关系，不裁定音乐或戏剧品质。",
+    "programs": [
+      {
+        "id": "linear",
+        "warnings": []
+      },
+      {
+        "id": "alternate",
+        "warnings": [
+          {
+            "kind": "origin_not_previously_performed",
+            "occurrence_id": "c",
+            "reprise_id": "reprise"
+          }
+        ]
+      }
+    ],
+    "project_ref": {
+      "object_id": "ext_b2547580-8aee-413e-9faf-6112f2cf3570",
+      "revision": 6,
+      "sha256": "8cb2238ad24d71c155edf4553c8d303a06e4e5e2d28248b9cd795283353c2e08"
+    },
+    "stale_note_ids": [
+      "note"
+    ],
+    "stale_program_ids": [
+      "alternate"
+    ],
+    "stale_reprise_ids": [],
+    "unknown_time_passage_ids": []
+  },
+  "upstream_basis": [
+    {
+      "owner_plugin_id": "org.wordflowlab.language-studio",
+      "object_id": "ext_0ee7c0d8-ad63-4481-8abc-71da7ba18605",
+      "revision": 4,
+      "sha256": "99b458d4825db2b91fac15cac04ba905b4fe206f002d27bb3e89974ed2a32803"
+    }
+  ],
+  "adopted": false,
+  "finalized": false,
+  "fixture": "原创虚构工程，模拟不代表真人测本、实际拍摄或演唱认证",
+  "original_work_fixed_ref": {
+    "revision_ref": {
+      "revision": 1
+    },
+    "sha256": "6577f6a191a8b6889c1c769db9f18e6afeb47e07359c92b47f259514ad33aaaf",
+    "work_ref": {
+      "kind": "novel",
+      "object_id": "novel_c070a2bc-10f4-4b55-a61b-981caa46f1ac",
+      "workspace_id": "workspace_01abb9b1-8e4a-46ac-a8ee-82d200f35875"
+    }
+  },
+  "original_work_record_unchanged": true,
+  "continuation": {
+    "task_kind": "chapter_draft",
+    "fixed_input_refs": [
+      {
+        "kind": "resource",
+        "work_ref": {
+          "workspace_id": "workspace_01abb9b1-8e4a-46ac-a8ee-82d200f35875",
+          "kind": "novel",
+          "object_id": "novel_c070a2bc-10f4-4b55-a61b-981caa46f1ac"
+        },
+        "resource_id": "resource_80a855af-a4cc-40e7-9ac9-b9afc9dc3356",
+        "revision": 1,
+        "sha256": "65ea03fa141cf2314d3564200155691be5965e9ef55a00714150ae3a58b5f911"
+      },
+      {
+        "kind": "resource",
+        "work_ref": {
+          "workspace_id": "workspace_01abb9b1-8e4a-46ac-a8ee-82d200f35875",
+          "kind": "novel",
+          "object_id": "novel_c070a2bc-10f4-4b55-a61b-981caa46f1ac"
+        },
+        "resource_id": "resource_a3b90e98-1275-4e15-86e0-a97a914d9a6b",
+        "revision": 1,
+        "sha256": "71130efc95dbde243abcdd0521d7a071b61320a1745d928d8be944fedb249ddf"
+      }
+    ],
+    "context_full_bytes_verified": true,
+    "candidate_saved_and_read": true,
+    "adopted": false
+  }
+}

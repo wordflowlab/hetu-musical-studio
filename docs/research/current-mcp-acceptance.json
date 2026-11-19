@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-19",
+  "entry": "本次Codex对话实际hetu_call_action长连接",
+  "connected_core_version": "0.12.3",
+  "official_installed_host_verified_separately": "0.12.6",
+  "plugin_id": "org.wordflowlab.musical-studio",
+  "package_sha256": "70f42fb31863b5be091c265d6415502573682e0c1cc52e13b510f7c58e2d6b85",
+  "capabilities_sha256": "fd0519f7a00f1f29e91aa39bc9ed1bb3cde306648e0712a71a316f93d704c942",
+  "actual_action_count": 36,
+  "discovered_schema": "get_project",
+  "skill_resources": [
+    {
+      "resource": "SKILL.md",
+      "sha256": "844a2f78654a0671b3efdb0c35d99e3774b7aba38aa28019666d92d730526db6",
+      "bytes_equal_to_final_package": true,
+      "characters": 716
+    },
+    {
+      "resource": "references/workflows.md",
+      "sha256": "2ac015643dece9ede03fcb99cafd15284281a47b46e4a557b1eaa94542b096dc",
+      "bytes_equal_to_final_package": true,
+      "characters": 691
+    },
+    {
+      "resource": "references/operations.md",
+      "sha256": "5ddfd006b26b18faa3268a917e4623ea6b9649c151240ce32b0de7d7bfc2faad",
+      "bytes_equal_to_final_package": true,
+      "characters": 3249
+    }
+  ],
+  "fixed_ref": {
+    "object_id": "ext_b2547580-8aee-413e-9faf-6112f2cf3570",
+    "revision": 6,
+    "sha256": "8cb2238ad24d71c155edf4553c8d303a06e4e5e2d28248b9cd795283353c2e08"
+  },
+  "fixed_work_ref": {
+    "workspace_id": "workspace_01abb9b1-8e4a-46ac-a8ee-82d200f35875",
+    "kind": "novel",
+    "object_id": "novel_c070a2bc-10f4-4b55-a61b-981caa46f1ac"
+  },
+  "fixed_project_read_complete": true,
+  "repository_skill_comparison": "实际响应逐字节等于最终dist包",
+  "limits": [
+    "长连接发现和专业成果回读不替代正式宿主完整业务旅程",
+    "只读取原创隔离验收工程，不采纳或定稿"
+  ]
+}
